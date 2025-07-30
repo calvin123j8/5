@@ -11190,3 +11190,17 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [30Jul2025 23:16:07.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [kevin123j2: Set own game mode to Survival Mode]
 [30Jul2025 23:16:08.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [30Jul2025 23:16:08.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: g<--[HERE]
+[30Jul2025 23:19:25.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 has made the advancement [Shiver Me Timbers!]
+[30Jul2025 23:21:26.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 has made the advancement [Creeping Horror]
+[30Jul2025 23:23:20.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq has made the advancement [Creeping Horror]
+[30Jul2025 23:25:11.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Nightmare Stalker
+[30Jul2025 23:25:50.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Jul2025 23:25:50.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: j<--[HERE]
+[30Jul2025 23:26:14.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Equestrian
+[30Jul2025 23:27:41.364] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 moved wrongly!
+[30Jul2025 23:28:14.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was shot by kevin123j2
+[30Jul2025 23:28:22.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Jul2025 23:28:22.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: j<--[HERE]
+[30Jul2025 23:28:46.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq has completed the challenge [Strike upon thee]
+[30Jul2025 23:30:09.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq has made the advancement [Nemo Aint Coming Home]
+[30Jul2025 23:30:56.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq has made the advancement [Lucky Looter]

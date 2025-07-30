@@ -1719,5 +1719,17 @@
     },
     "done": true
   },
+  "realmrpg_creep:obtain_creeping_sprout": {
+    "criteria": {
+      "obtain_creeping_sprout": "2025-07-30 23:21:26 +0000"
+    },
+    "done": true
+  },
+  "undead_unleashed:shiver_me_timbers": {
+    "criteria": {
+      "shiver_me_timbers_0": "2025-07-30 23:19:25 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

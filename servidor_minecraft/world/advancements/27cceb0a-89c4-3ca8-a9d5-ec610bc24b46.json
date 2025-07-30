@@ -1529,5 +1529,23 @@
     },
     "done": true
   },
+  "seadwellers:adv_barter_fish": {
+    "criteria": {
+      "adv_barter_fish": "2025-07-30 23:30:09 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:legendaryweapon": {
+    "criteria": {
+      "legendaryweapon_0": "2025-07-30 23:28:46 +0000"
+    },
+    "done": true
+  },
+  "realmrpg_creep:obtain_creeping_sprout": {
+    "criteria": {
+      "obtain_creeping_sprout": "2025-07-30 23:23:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
