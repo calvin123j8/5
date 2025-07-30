@@ -1719,6 +1719,12 @@
     },
     "done": true
   },
+  "seadwellers:adv_barter_fish": {
+    "criteria": {
+      "adv_barter_fish": "2025-07-30 23:33:44 +0000"
+    },
+    "done": true
+  },
   "realmrpg_creep:obtain_creeping_sprout": {
     "criteria": {
       "obtain_creeping_sprout": "2025-07-30 23:21:26 +0000"
@@ -1728,6 +1734,12 @@
   "undead_unleashed:shiver_me_timbers": {
     "criteria": {
       "shiver_me_timbers_0": "2025-07-30 23:19:25 +0000"
+    },
+    "done": true
+  },
+  "seadwellers:adv_open_casket": {
+    "criteria": {
+      "adv_open_casket": "2025-07-30 23:34:15 +0000"
     },
     "done": true
   },

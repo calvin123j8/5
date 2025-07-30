@@ -1547,5 +1547,17 @@
     },
     "done": true
   },
+  "seadwellers:adv_open_casket": {
+    "criteria": {
+      "adv_open_casket": "2025-07-30 23:30:56 +0000"
+    },
+    "done": true
+  },
+  "modulargolems:golems/root": {
+    "criteria": {
+      "0": "2025-07-30 23:32:24 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
