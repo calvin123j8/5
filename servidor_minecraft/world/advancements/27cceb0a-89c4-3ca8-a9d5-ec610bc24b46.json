@@ -1505,12 +1505,6 @@
     },
     "done": true
   },
-  "undead_unleashed:shiver_me_timbers": {
-    "criteria": {
-      "shiver_me_timbers_0": "2025-07-30 22:54:19 +0000"
-    },
-    "done": true
-  },
   "species:species/root": {
     "criteria": {
       "picked_up_any_item": "2025-07-30 22:53:15 +0000"
@@ -1526,6 +1520,12 @@
   "seadwellers:adv_root": {
     "criteria": {
       "adv_root": "2025-07-30 22:53:15 +0000"
+    },
+    "done": true
+  },
+  "undead_unleashed:shiver_me_timbers": {
+    "criteria": {
+      "shiver_me_timbers_0": "2025-07-30 22:54:19 +0000"
     },
     "done": true
   },
