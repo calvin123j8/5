@@ -37,3 +37,6 @@
 [31Jul2025 00:57:23.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: u<--[HERE]
 [31Jul2025 00:59:54.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Sprinter
 [31Jul2025 01:01:35.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Jos3enriq has made the advancement [Junior Summoner]
+[31Jul2025 01:07:07.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[31Jul2025 01:07:07.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: t<--[HERE]
+[31Jul2025 01:10:27.528] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
