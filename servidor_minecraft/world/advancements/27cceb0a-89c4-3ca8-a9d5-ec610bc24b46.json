@@ -1541,6 +1541,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2025-07-31 00:56:44 +0000"
+    },
+    "done": true
+  },
   "realmrpg_creep:obtain_creeping_sprout": {
     "criteria": {
       "obtain_creeping_sprout": "2025-07-30 23:23:20 +0000"
