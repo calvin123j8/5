@@ -11210,3 +11210,12 @@ com.google.gson.JsonSyntaxException: Unknown type 'alternative'
 [30Jul2025 23:37:12.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: f<--[HERE]
 [30Jul2025 23:45:46.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [30Jul2025 23:45:46.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: j<--[HERE]
+[30Jul2025 23:54:07.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 has made the advancement [Fishy Business]
+[30Jul2025 23:55:29.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[30Jul2025 23:55:29.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: t<--[HERE]
+[30Jul2025 23:56:41.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 was slain by Haunter
+[30Jul2025 23:57:10.654] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: kevin123j2 lost connection: Disconnected
+[30Jul2025 23:57:10.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 left the game
+[30Jul2025 23:58:36.439] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: kevin123j2[/127.170.19.127:32875] logged in with entity id 11405 at (-243.66434620676685, 51.0, 13.376906410921299)
+[30Jul2025 23:58:36.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: kevin123j2 joined the game
+[30Jul2025 23:58:36.547] [Server thread/INFO] [Jade/]: Syncing config to kevin123j2 (66256a26-dde2-30fc-b9f9-230690d21c47)

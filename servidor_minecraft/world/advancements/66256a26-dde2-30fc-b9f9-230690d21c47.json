@@ -1719,9 +1719,9 @@
     },
     "done": true
   },
-  "seadwellers:adv_barter_fish": {
+  "undead_unleashed:shiver_me_timbers": {
     "criteria": {
-      "adv_barter_fish": "2025-07-30 23:33:44 +0000"
+      "shiver_me_timbers_0": "2025-07-30 23:19:25 +0000"
     },
     "done": true
   },
@@ -1731,15 +1731,21 @@
     },
     "done": true
   },
-  "undead_unleashed:shiver_me_timbers": {
+  "seadwellers:adv_barter_fish": {
     "criteria": {
-      "shiver_me_timbers_0": "2025-07-30 23:19:25 +0000"
+      "adv_barter_fish": "2025-07-30 23:33:44 +0000"
     },
     "done": true
   },
   "seadwellers:adv_open_casket": {
     "criteria": {
       "adv_open_casket": "2025-07-30 23:34:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-07-30 23:54:07 +0000"
     },
     "done": true
   },
