@@ -1749,5 +1749,11 @@
     },
     "done": true
   },
+  "betterarcheology:loot_vase_broken": {
+    "criteria": {
+      "criteria": "2025-07-31 01:44:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

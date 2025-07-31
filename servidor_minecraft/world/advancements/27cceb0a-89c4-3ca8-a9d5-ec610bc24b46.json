@@ -327,6 +327,7 @@
       "minecraft:flower_forest": "2025-01-08 17:51:30 +0000",
       "environmental:environmental:marsh": "2025-01-12 17:50:37 +0000",
       "atmospheric:atmospheric:kousa_jungle": "2025-01-17 02:10:19 +0000",
+      "minecraft:frozen_peaks": "2025-07-31 01:47:56 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-18 00:17:13 +0000",
       "minecraft:deep_dark": "2025-02-03 20:41:59 +0000",
       "minecraft:meadow": "2025-01-17 00:43:36 +0000",
@@ -1535,9 +1536,21 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-31 01:46:37 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:legendaryweapon": {
     "criteria": {
       "legendaryweapon_0": "2025-07-30 23:28:46 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:hunted": {
+    "criteria": {
+      "hunted_0": "2025-07-31 01:50:34 +0000"
     },
     "done": true
   },
@@ -1562,6 +1575,12 @@
   "modulargolems:golems/root": {
     "criteria": {
       "0": "2025-07-30 23:32:24 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2025-07-31 01:31:26 +0000"
     },
     "done": true
   },
