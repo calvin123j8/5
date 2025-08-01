@@ -1767,5 +1767,11 @@
     },
     "done": true
   },
+  "realmrpg_quests:refuse_quest": {
+    "criteria": {
+      "refuse_quest_0": "2025-08-01 15:37:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
