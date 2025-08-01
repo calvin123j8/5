@@ -1596,5 +1596,17 @@
     },
     "done": true
   },
+  "endrem:main/root": {
+    "criteria": {
+      "corrupted_eye": "2025-08-01 02:02:58 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/corrupted_eye": {
+    "criteria": {
+      "corrupted_eye": "2025-08-01 02:02:58 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
