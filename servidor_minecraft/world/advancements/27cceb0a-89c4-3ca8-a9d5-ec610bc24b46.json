@@ -1530,15 +1530,9 @@
     },
     "done": true
   },
-  "seadwellers:adv_barter_fish": {
+  "realmrpg_creep:obtain_creeping_sprout": {
     "criteria": {
-      "adv_barter_fish": "2025-07-30 23:30:09 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_troll": {
-    "criteria": {
-      "killed_fire_dragon": "2025-07-31 01:46:37 +0000"
+      "obtain_creeping_sprout": "2025-07-30 23:23:20 +0000"
     },
     "done": true
   },
@@ -1548,21 +1542,9 @@
     },
     "done": true
   },
-  "enemyexpansion:hunted": {
+  "seadwellers:adv_barter_fish": {
     "criteria": {
-      "hunted_0": "2025-07-31 01:50:34 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/dragonbone_tool": {
-    "criteria": {
-      "tool": "2025-07-31 00:56:44 +0000"
-    },
-    "done": true
-  },
-  "realmrpg_creep:obtain_creeping_sprout": {
-    "criteria": {
-      "obtain_creeping_sprout": "2025-07-30 23:23:20 +0000"
+      "adv_barter_fish": "2025-07-30 23:30:09 +0000"
     },
     "done": true
   },
@@ -1578,15 +1560,39 @@
     },
     "done": true
   },
-  "mowziesmobs:kill_naga": {
+  "iceandfire:iceandfire/dragonbone_tool": {
     "criteria": {
-      "naga": "2025-07-31 01:31:26 +0000"
+      "tool": "2025-07-31 00:56:44 +0000"
     },
     "done": true
   },
   "born_in_chaos_v1:junior_summoner": {
     "criteria": {
       "junior_summoner_0": "2025-07-31 01:01:35 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2025-07-31 01:31:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2025-07-31 01:46:37 +0000"
+    },
+    "done": true
+  },
+  "enemyexpansion:hunted": {
+    "criteria": {
+      "hunted_0": "2025-07-31 01:50:34 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-08-01 01:29:53 +0000"
     },
     "done": true
   },
