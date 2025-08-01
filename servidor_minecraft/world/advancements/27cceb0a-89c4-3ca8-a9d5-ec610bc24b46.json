@@ -1608,5 +1608,17 @@
     },
     "done": true
   },
+  "dungeonnowloading:story/labyrinth/loot_simple_dungeon": {
+    "criteria": {
+      "loot_simple_dungeon": "2025-08-01 15:38:38 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/root": {
+    "criteria": {
+      "obtain_crafting_table": "2025-08-01 16:18:37 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
